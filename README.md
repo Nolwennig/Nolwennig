@@ -1,6 +1,6 @@
 ## ✨ Hello World 👋
 
-- 🔭 **I’m freelance Senior Magento Developer**
+- 🔭 **I’m freelance Enthusiast Senior Magento Developer**
 ---
 - 🔭 **I'm currently working on several Magento projects at same time**
 - 💬 **Ask me about** `Magento1.x || Magento2.x`
